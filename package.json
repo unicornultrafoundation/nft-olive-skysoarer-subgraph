@@ -4,9 +4,9 @@
   "scripts": {
     "codegen": "graph codegen",
     "build": "graph build",
-    "create-local": "graph create --node http://localhost:8020/ u2u/solar_adventure",
-    "remove-local": "graph remove --node http://localhost:8020/ u2u/solar_adventure",
-    "deploy-local": "graph deploy --node http://localhost:8020/ --ipfs http://localhost:5001 u2u/solar_adventure -l v0.0.1",
+    "create-local": "graph create --node http://localhost:8020/ u2u/olive_skysoarer",
+    "remove-local": "graph remove --node http://localhost:8020/ u2u/olive_skysoarer",
+    "deploy-local": "graph deploy --node http://localhost:8020/ --ipfs http://localhost:5001 u2u/olive_skysoarer -l v0.0.1",
     "test": "graph test"
   },
   "dependencies": {
